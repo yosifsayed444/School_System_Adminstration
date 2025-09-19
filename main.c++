@@ -13,7 +13,7 @@ signed main()
     int salary;
     do
     {
-        cout << "\n Menu"
+        cout << "\n Menu From My new Account"
              << "\n 1. Add Student"
              << "\n 2. Edit Student"
              << "\n 3. Get Student"
